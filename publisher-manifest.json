@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0aeecdb4d0838a6a01b5dc11",
+  "owner": "an6dhm",
+  "repo": "page-77d2b9a191912b6ceff66539",
+  "title": "YiBai",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "77d2b9a191912b6ceff66539",
+      "a": "YiBai",
+      "b": "稳定全球clash加速器",
+      "entity": "YiBai",
+      "brand": "YiBai",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ac478cd409f7779bd82fae3bde4ea26f4ebaa1b0b7a4d16326c0e0dfadd47cdf",
+      "content": {
+        "primary_entity": "YiBai",
+        "keyword1": "YiBai",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端与移动端分别导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择合适的套餐，按设备导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 YiBai",
+          "AI_DESCRIPTION": "，面向需要稳定全球线路的用户提供多档订阅方案。基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线游戏加速优化，团队版每月 85 元含 1000GB 流量与 20 台设备。按年付可省两个月费用，在 Clash 客户端导入订阅后即可在手机、电脑与路由器上使用。",
+          "AI_FEATURES_INTRO": "从套餐内容、设备数量到订阅周期，快速找到适合的使用方式。",
+          "AI_FEATURES_TITLE": "为什么选择 YiBai",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版提供 IPLC 专线，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版可同时在线 20 台设备。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付仅需十个月价格，长期使用更省费用。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "设备数按需选",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "YiBai 提供多档全球线路订阅，覆盖 Clash 客户端，适合个人与团队按设备数量与流量需求选择。基础版、旗舰版与团队版分别对应不同使用强度。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "对比流量、设备数量与线路差异，选择匹配使用场景的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版与团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端与设备数量，确认系统版本满足要求。",
+          "AI_STEP_TEXT_3": "在 Clash 客户端中导入订阅地址，按客户端文档完成节点配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "YiBai 全球线路订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。按常用设备数选择即可，如果手机、电脑、平板同时使用，建议旗舰版起步。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览与社交选基础版，经常看视频或玩游戏选旗舰版，多人共用选团队版。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月支付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线并针对游戏加速优化，同时支持全节点原生流媒体解锁，适合对延迟和画质有要求的场景。",
+          "AI_FAQ_ANSWER_5": "可以，团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，满足多人协作需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "YiBai 不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "团队版可以多人共用吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "i8dx9a.cn",
+    "host": "i8dx9a.cn"
+  },
+  "file_hashes": {
+    "index.html": "1d1a3148e9bc5b8f0a77a3c85fac91976d83c4c76cf86790ff6be6122f8955a4",
+    "sitemap.xml": "f27a4b67fa69e214f17108ba1268a113a6754c50926e76a13546cdf627430a9c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "aedd304039d8817318cac65467e4606a43a1ec8b2e4267384e0e13004f527ee0",
+    "robots.txt": "3de76d5cac496afc7993caa21ab09a68f85cb66a30bb521923dd98629c8ad00e",
+    "325b0b50b7dc11d6c41b1b569cde086f.txt": "6a95c4658cfa223b7e804973e58ccdd56eee61f12917b32d53bd6066b041c7bc"
+  },
+  "revision": "9882376ef3a144e8be7df6d13792fab174aeec789ac7c634ae9108516d78ae95"
+}
